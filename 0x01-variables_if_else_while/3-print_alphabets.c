@@ -15,7 +15,7 @@ for (upper-case = 'A'; upper-case <= 'Z'; upper-case++)
 putchar(upper-case);
 }
 
-for (lower-case = 'a'; lower-case <= 'z'; lower-case++)                                                                                                                            
+for (lower-case = 'a'; lower-case <= 'z': lower-case++)                                                                                                                            
 {                                                                                                                                                                                  
 putchar(lower-case);                                                                                                                                                               
 }
