@@ -10,14 +10,14 @@ int main(void)
 char lower-case;
 char upper-case;
 
-for (upper-case = 'A'; upper-case <= 'Z'; upper-case++)
+for (lower-case = 'a'; lower-case <= 'z'; lower-case++)
 {
-putchar(upper-case);
+putchar(lower-case);
 }
 
-for (lower-case = 'a'; lower-case <= 'z': lower-case++)                                                                                                                            
+for (upper-case = 'A'; upper-case <= 'Z': upper-case++)                                                                                                                            
 {                                                                                                                                                                                  
-putchar(lower-case);                                                                                                                                                               
+putchar(upper-case);                                                                                                                                                               
 }
 
 putchar('\n');
