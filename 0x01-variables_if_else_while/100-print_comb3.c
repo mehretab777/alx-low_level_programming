@@ -7,7 +7,7 @@
 int main(void)
 
 {
-int digit1,digit2;
+int digit1, digit2;
 
 for (digit1 = 0; digit2 < 9; digit1++)
 {
@@ -27,4 +27,6 @@ putchar(' ');
 putchar('\n');
 
 return (0);
+
 }
+
