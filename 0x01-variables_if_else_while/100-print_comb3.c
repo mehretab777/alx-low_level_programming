@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * main - prints all possible different combinations of two digits
  *       in ascending order, separated by comma followed by a space.
@@ -28,6 +29,5 @@ putchar(' ');
 putchar('\n');
 
 return (0);
-
 }
 
