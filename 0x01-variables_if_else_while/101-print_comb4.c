@@ -4,6 +4,7 @@
  *
  * Return: Always 0 (success/correction)
  */
+
 int main(void)
 
 {
@@ -32,6 +33,5 @@ putchar(' ');
 putchar('\n');
 
 return (0);
-
 }
 		 
