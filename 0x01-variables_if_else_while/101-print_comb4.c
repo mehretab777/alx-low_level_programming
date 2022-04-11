@@ -1,7 +1,7 @@
 #include<stdio.h>
-
 /*
- * main - Entry point
+ * main - prints all possible different combinations of three digits.
+ *        in ascending order,  separated by comma, followed by a space
  *
  * Return: Always 0 (success/correction)
  */
