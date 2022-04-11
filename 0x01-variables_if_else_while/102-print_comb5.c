@@ -28,6 +28,6 @@ putchar(' ');
 }
 }
 
-putchar('\n')
+putchar('\n');
 
 returrn (0);
