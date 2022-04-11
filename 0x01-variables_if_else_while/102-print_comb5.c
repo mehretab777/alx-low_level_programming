@@ -30,4 +30,4 @@ putchar(' ');
 
 putchar('\n');
 
-returrn (0);
+return (0);
