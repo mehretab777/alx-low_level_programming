@@ -20,7 +20,7 @@ _putchar ('0');
 return (0);
 }
 
-else (n < 0)
+else 
 {
 _putchar ('-');
 return (-1);
