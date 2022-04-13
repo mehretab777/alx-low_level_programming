@@ -1,5 +1,6 @@
 #include <stdio.h>                                                                                    
-/**                                                                               * main - write a program that finds and prints the sum of the even-valu
+/**  
+  * main - prints the first 50 Fibonacci numbers, starting with 1 and 2
   *
   * Return: Always 0;     
   */
