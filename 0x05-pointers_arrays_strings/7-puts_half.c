@@ -8,6 +8,7 @@
  */
 
  void puts_half(char *str)
+
 {
 int i, last;
 
@@ -25,4 +26,5 @@ _putchar (str[i]);
 }
 
 _putchar ('\n');
+
 }
