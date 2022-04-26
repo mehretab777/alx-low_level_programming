@@ -5,7 +5,7 @@ include "main.h"
  * @s: memory area to fill
  * @b: constant byte to fill
  * @n: bytes of memory area to fill
- * Return: the memory area to fill
+ * Return: the memory area to filled
  */
 char *_memset(char *s, char b, unsigned int n)
 
